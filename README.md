@@ -12,5 +12,5 @@
 ## SopkenIDE descripton
 This is a repo owned by Happy planet.
 
-## links
+## Links
   This is the google drive link: https://drive.google.com/drive/folders/1TPWm4aJlyv7EZwG5KBrpg4tJYpIeztxk?usp=sharing
