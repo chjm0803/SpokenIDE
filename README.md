@@ -1,9 +1,9 @@
 # CSE5914 Project
 
-# Team
+## Team
   Happy planet
   
-# Team member
+## Team member
   - Yunxuan Hu, 
 	- Shicong Wang, 
 	- Jiingming Chen, 	
