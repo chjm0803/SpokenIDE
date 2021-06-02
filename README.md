@@ -4,10 +4,7 @@
   Happy planet
   
 ## Team member
-  - Yunxuan Hu, 
-	- Shicong Wang, 
-	- Jiingming Chen, 	
-	- Cyrus Li
+  - Yunxuan Hu, - Shicong Wang, - Jiingming Chen, - Cyrus Li
 
 ## SopkenIDE descripton
 This is a repo owned by Happy planet.
