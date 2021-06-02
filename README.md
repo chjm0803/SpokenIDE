@@ -1,5 +1,4 @@
 # CSE5914 Project
-=================
 
 # Team
   Happy planet
